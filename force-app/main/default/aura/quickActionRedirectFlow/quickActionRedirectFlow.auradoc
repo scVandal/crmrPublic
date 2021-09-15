@@ -1,0 +1,6 @@
+<aura:documentation>
+	<aura:description>Custom flow QuickAction to Redirect Flow</aura:description>
+	<aura:example name="ExampleName" ref="quickActionRedirectFlow" label="Label">
+		Example Description
+	</aura:example>
+</aura:documentation>
