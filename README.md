@@ -1,18 +1,14 @@
-# Salesforce DX Project: Next Steps
+# Code->Review->Merge->Repeate
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+Welcome to Code->Review->Merge->Repeate (CRMR for short) public repo. This is a general grab-bag of things that I have written over the years for Salesforce that might be useful for other Salesforce developers. Scripts, aura components, LWCs, classes and triggers and all other manner of code to expand basic Salesforce functionality that I've accumulated over the years of working in production Salesforce environments for clients.
 
-## How Do You Plan to Deploy Your Changes?
+## Components and Features
 
-Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
+### Flow Redirect QuickAction
+The Aura component quickActionRedirectFlow is a simple aura component that can be invoked as a quick action in a flow to redirect a completed flow to an existing record. 
 
-## Configure Your Salesforce DX Project
+## Usage
+Free as in beer usage appiels to everything in this repo. If you find anything here useful - directly or as inspiration - feel free to lift it and use it in your projects and orgs. No cost, no attribution needed; I sincerely hope the code here may help you solve a problem you are running into!
 
-The `sfdx-project.json` file contains useful configuration information for your project. See [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm) in the _Salesforce DX Developer Guide_ for details about this file.
-
-## Read All About It
-
-- [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
-- [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
-- [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
-- [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
+## About the Author
+All contents in this repo where created by Ilya Pinchuk over the course of way longer than I care to admit.
