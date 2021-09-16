@@ -5,7 +5,7 @@ Welcome to Code->Review->Merge->Repeate (CRMR for short) public repo. This is a 
 ## Components and Features
 
 ### Flow Redirect QuickAction (Aura Component)
-Hate how there is no out-of-the box solution to redirect a flow to a record. One of my clients did, so I wrote this. The Aura component quickActionRedirectFlow is a simple aura component that can be invoked as a quick action in a flow to redirect a completed flow to an existing record. 
+Hate how there is no out-of-the box solution to redirect a flow to a record? One of my clients did, so I wrote this. The Aura component quickActionRedirectFlow is a simple aura component that can be invoked as a quick action in a flow to redirect a completed flow to an existing record. 
 
 ## Usage
 Free as in beer usage appiels to everything in this repo. If you find anything here useful - directly or as inspiration - feel free to lift it and use it in your projects and orgs. No cost, no attribution needed; I sincerely hope the code here may help you solve a problem you are running into!
